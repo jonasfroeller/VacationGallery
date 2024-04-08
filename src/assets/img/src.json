@@ -1,0 +1,94 @@
+[
+  {
+    "photographer": "mariya_m",
+    "image": "mallorca-6957128.jpg",
+    "title": "Mallorca, Kurvenreiche straße, Berge",
+    "description": "Eine kurvenreiche Straße in den Bergen von Mallorca. Die Straße führt durch eine wunderschöne Landschaft und bietet einen atemberaubenden Ausblick auf die Berge und das Meer.",
+    "tags": ["berge", "natur", "landschaft", "straße"]
+  },
+  {
+    "photographer": "Tho-Ge",
+    "image": "sea-8254024.jpg",
+    "title": "Meer, Hafen, Dorf",
+    "description": "Ein kleines Fischerdorf am Meer. Boote liegen im Hafen und die Sonne scheint auf das Wasser. Ein idyllischer Ort, um die Seele baumeln zu lassen.",
+    "tags": ["meerhafen", "dorf", "boote", "natur", "fischerdorf"]
+  },
+  {
+    "photographer": "birgl",
+    "image": "businesses-2897328.jpg",
+    "title": "Geschäfte, Mediterran, Gasse",
+    "description": "Eine Gasse in einem mediterranen Dorf. Die Häuser sind aus Stein gebaut und haben bunte Fensterläden. In den Gassen gibt es kleine Geschäfte und Restaurants, die zum Bummeln und Verweilen einladen.",
+    "tags": ["geschäfte", "mediterran", "gasse", "mittelmeer", "restaurant", "strasse", "architektur", "dorf", "maritim", "straße", "altstadt"]
+  },
+  {
+    "photographer": "mruizdeassin",
+    "image": "mallorca-109204.jpg",
+    "title": "Mallorca, Cala, Natur",
+    "description": "Eine idyllische Bucht auf Mallorca. Das türkisblaue Wasser lädt zum Baden und Entspannen ein. Umgeben von Felsen und grüner Natur ist die Cala ein wahrer Geheimtipp für Naturliebhaber.",
+    "tags": ["cala", "natur", "blaues wasser", "strand"]
+  },
+  {
+    "photographer": "Pixel-Sepp",
+    "image": "mallorca-2911323.jpg",
+    "title": "Mallorca, Port soller, Straßenbahn",
+    "description": "Die Straßenbahn von Port Soller. Die historische Bahn verbindet den Hafen mit der Altstadt und bietet eine malerische Fahrt entlang der Küste. Ein beliebtes Fotomotiv für Touristen und Einheimische.",
+    "tags": ["port soller",
+    "straßenbahn"]
+  },
+  {
+    "photographer": "4634656",
+    "image": "beach-2100369.jpg",
+    "title": "Strand, Mallorca, Bucht",
+    "description": "Ein einsamer Strand in einer versteckten Bucht auf Mallorca. Der feine Sand und das klare Wasser laden zum Baden und Sonnenbaden ein. Ein idyllischer Ort, um dem Alltag zu entfliehen und die Natur zu genießen.",
+    "tags": ["felsen", "aussicht", "insel", "meeresblick"]
+  },
+  {
+    "photographer": "inproperstyle",
+    "image": "market-2669499.jpg",
+    "title": "Markt, Nüsse, Verkaufen",
+    "description": "Ein Marktstand auf einem Wochenmarkt in Mallorca. Hier werden frische Nüsse und Trockenfrüchte verkauft. Die bunten Tüten und Säcke laden zum Probieren und Kaufen ein. Ein beliebtes Souvenir für Touristen und Einheimische.",
+    "tags": ["markt", "nüsse"]
+  },
+  {
+    "photographer": "alexanderwaltner",
+    "image": "majorca-4009529.jpg",
+    "title": "Mallorca, Spanien, Natur",
+    "description": "Eine idyllische Landschaft auf Mallorca. Die grünen Hügel und die blühenden Mandelbäume bieten einen atemberaubenden Anblick. Ein beliebtes Fotomotiv für Natur- und Wanderfreunde.",
+    "tags": ["strand", "paradies"]
+  },
+  {
+    "photographer": "Medienservice",
+    "image": "mallorca-3266391.jpg",
+    "title": "Mallorca, Alcudia, Architektur",
+    "description": "Die historische Altstadt von Alcudia. Die engen Gassen und die alten Gebäude versprühen mediterranes Flair. Ein beliebtes Ausflugsziel für Touristen und Einheimische.",
+    "tags": ["alcudia", "architektur"]
+  },
+  {
+    "photographer": "Joergi",
+    "image": "mallorca-5137463.jpg",
+    "title": "Mallorca, Strand, Natur",
+    "description": "Ein einsamer Strand auf Mallorca. Der feine Sand und das klare Wasser laden zum Baden und Sonnenbaden ein. Ein idyllischer Ort, um dem Alltag zu entfliehen und die Natur zu genießen.",
+    "tags": ["natur", "meer"]
+  },
+  {
+    "photographer": "porssella",
+    "image": "cathedral-3418048.jpg",
+    "title": "Kathedrale, Mallorca, Spanien",
+    "description": "Die Kathedrale von Palma de Mallorca. Das imposante Bauwerk thront über der Altstadt und ist ein Wahrzeichen der Insel. Ein beeindruckendes Beispiel für gotische Architektur.",
+    "tags": ["natur", "gotisch"]
+  },
+  {
+    "photographer": "shogun",
+    "image": "sea-2762322.jpg",
+    "title": "Meer, Bucht, Boote",
+    "description": "Eine idyllische Bucht auf Mallorca. Das türkisblaue Wasser und die Boote laden zum Baden und Entspannen ein. Ein beliebtes Ausflugsziel für Touristen und Einheimische.",
+    "tags": ["meer", "bucht", "boote"]
+  },
+  {
+    "photographer": "Hans",
+    "image": "raixa-estate-1117504.jpg",
+    "title": "Landgut raixa, Historisch, Landgut",
+    "description": "Das historische Landgut Raixa auf Mallorca. Die imposante Anlage aus dem 18. Jahrhundert beeindruckt mit prächtigen Gärten und historischer Architektur. Ein beliebtes Ausflugsziel für Kultur- und Geschichtsinteressierte.",
+    "tags": ["raixa", "bunyola"]
+  }
+]
