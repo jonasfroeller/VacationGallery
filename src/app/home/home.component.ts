@@ -14,7 +14,7 @@ export class HomeComponent {
   vds: VacationDataService = inject(VacationDataService)
 
   getRandomVacationImage() {
-    const randomIndex = this.vds.getRandomVacationImage();
+    const randomIndex = this.vds.getRandomVacationId();
     void this.router.navigate([`/detail/${randomIndex}`]);
   }
 }

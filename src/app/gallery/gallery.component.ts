@@ -23,6 +23,5 @@ export class GalleryComponent implements OnInit {
 
   ngOnInit(): void {
     this.vacations = this.vdc.vacations
-    console.log(this.vacations);
   }
 }

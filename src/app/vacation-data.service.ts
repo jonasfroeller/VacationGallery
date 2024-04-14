@@ -15,7 +15,7 @@ export class VacationDataService {
     return this._vacationData;
   }
 
-  public get VacationAmount() {
+  public get vacationAmount() {
     return this._vacationData.length - 1;
   }
 
@@ -23,7 +23,7 @@ export class VacationDataService {
     return this._vacationData.at(index);
   }
 
-  getRandomVacationImage() {
-    return Math.floor(Math.random() * (this.VacationAmount + 1));
+  getRandomVacationId() {
+    return Math.floor(Math.random() * (this.vacationAmount + 1));
   }
 }
