@@ -1,5 +1,6 @@
-import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
+import {Component} from '@angular/core';
+import {RouterOutlet} from '@angular/router';
+import {NgForOf, NgOptimizedImage} from "@angular/common";
 
 // We're using the singleton here for convenience:
 // import { exiftool } from "exiftool-vendored"; // no esm support and @angular-builders/custom-webpack is not working properly (no :application)
@@ -12,10 +13,10 @@ import { RouterOutlet } from '@angular/router';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
+  imports: [RouterOutlet, NgForOf, NgOptimizedImage],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'VacationGallery';
+  title = 'Vacation Gallery - Mallorca';
 }

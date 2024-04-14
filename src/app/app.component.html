@@ -1,5 +1,23 @@
-<h1 class="text-3xl font-bold underline">
-  {{ title }}
-</h1>
+<nav class="flex justify-between items-center sticky top-0 left-0 bg-orange-500 text-white p-4 w-full z-50">
+  <a href="/">
+    <h1 class="text-3xl font-bold">
+      {{ title }}
+    </h1>
+  </a>
 
-<router-outlet />
+  <ul class="flex gap-4">
+    <li>
+      <a href="/">Home</a>
+    </li>
+    <li>
+      <a href="/gallery">Gallery</a>
+    </li>
+    <li>
+      <a href="/about">About</a>
+    </li>
+  </ul>
+</nav>
+
+<main class="relative p-16 pt-0 min-h-screen flex justify-center items-center">
+  <router-outlet/>
+</main>
